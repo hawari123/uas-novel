@@ -1,0 +1,42 @@
+uas-novel-backend/node_modules
+uas-novel-backend/public/build
+uas-novel-backend/public/hot
+uas-novel-backend/public/storage
+uas-novel-backend/storage/*.key
+uas-novel-backend/vendor
+uas-novel-backend/.env
+uas-novel-backend/.env.backup
+uas-novel-backend/.phpunit.result.cache
+uas-novel-backend/Homestead.json
+uas-novel-backend/Homestead.yaml
+uas-novel-backend/auth.json
+uas-novel-backend/npm-debug.log
+uas-novel-backend/yarn-error.log
+uas-novel-backend/.idea
+uas-novel-backend/.vscode
+
+//////
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+uas-novel-frontend/node_modules
+uas-novel-frontend/.pnp
+uas-novel-frontend/.pnp.js
+
+# testing
+uas-novel-frontend/coverage
+
+# production
+uas-novel-frontend/build
+
+# misc
+uas-novel-frontend/.DS_Store
+uas-novel-frontend/.env.local
+uas-novel-frontend/.env.development.local
+uas-novel-frontend/.env.test.local
+uas-novel-frontend/.env.production.local
+
+uas-novel-frontend/npm-debug.log*
+uas-novel-frontend/yarn-debug.log*
+uas-novel-frontend/yarn-error.log*
